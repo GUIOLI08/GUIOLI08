@@ -6,8 +6,8 @@
 ## 🚀 Sobre Mim
 Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Front-End quanto no Back-End. Atualmente, foco meu stack em tecnologias modernas como TypeScript, Node.js e bancos de dados relacionais.
 
-<br>
 ---
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -22,8 +22,8 @@ Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Fron
   <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<br>
 ---
+<br>
 
 ## 📊 Estatísticas do GitHub
 
@@ -36,8 +36,8 @@ Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Fron
   </a>
 </div>
 
-<br>
 ---
+<br>
 
 ## 📫 Entre em contato
 <div> 
