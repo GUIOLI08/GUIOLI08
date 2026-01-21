@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Front-End quanto no Back-End. Atualmente, foco meu stack em tecnologias modernas como TypeScript, Node.js e bancos de dados relacionais.
+Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js para construir aplicações robustas, unindo um Back-End performático a interfaces modernas no Front-End.
 
 ---
 <br>
