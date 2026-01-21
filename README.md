@@ -16,13 +16,11 @@
   ##
  
 <div> 
-  <div> 
   <a href="mailto:guilherme.oliver@msn.com">
-    <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-guilherme.oliver@msn.com-0078D4?logo=microsoft-outlook&logoColor=white&style=flat">
   </a>
 
   <a href="www.linkedin.com/in/guilherme-oliver-75620536a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
 </div>
