@@ -17,11 +17,10 @@
  
 <div>
   <a href="mailto:guilherme.oliver@msn.com">
-    <img height="28" src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">
   </a>
 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </div>
-
