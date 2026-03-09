@@ -19,10 +19,11 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 ---
-
+<!--
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap:50px; justify-content: center;">
@@ -35,6 +36,7 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
 </div>
 
 ---
+-->
 
 ## 📫 Entre em contato
 <div> 
