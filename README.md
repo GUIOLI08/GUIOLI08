@@ -1,14 +1,14 @@
-# Olá, eu sou Guilherme Oliver!
-### Desenvolvedor Full-Stack (Front-End & Back-End)
+# Hello, I'm Guilherme Oliver!
+### Full Stack Developer (Front-End & Back-End)
 
 ---
 
-## 🚀 Sobre Mim
-Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js para construir aplicações robustas, unindo um Back-End performático a interfaces modernas no Front-End.
+## 🚀 About me
+Full Stack Developer in constant evolution. I use TypeScript and Node.js to build robust applications, combining a high-performance back-end with modern front-end interfaces.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
@@ -38,7 +38,7 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
 ---
 -->
 
-## 📫 Entre em contato
+## 📫 Get in Touch
 <div> 
   <a href="mailto:guilherme.oliver@msn.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
