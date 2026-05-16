@@ -30,11 +30,11 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 <div align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f" alt="GitHub Streak Stats" />
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="Guilherme's Stats" />
+  <img height="170em" src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=guioli08&theme=2077" alt="Guilherme's Stats" />
 
   <br/><br/>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=dark&bg_color=000000&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="200em" src="https://github-profile-summary-cards.verve.ink/api/cards/most-commit-language?username=guioli08&theme=2077" alt="Top Languages" />
 </div>
 
 ---
