@@ -28,7 +28,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.com/api?username=guioli08&show_icons=true&theme=radial" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=radial" alt="GitHub Streak Stats" />
 </div>
 
 ---
