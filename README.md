@@ -24,7 +24,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -38,6 +38,10 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f&currStreakLabel=ff007f" alt="GitHub Streak Stats" />
 
 </div>
+-->
+## 📊 GitHub Stats
+
+![Estatísticas do Guilherme](https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&bg_color=000000&hide_border=true)
 
 ---
 
