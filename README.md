@@ -28,9 +28,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap:50px; justify-content: center;">
-  <a href="https://github.com/GUIOLI08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&commits_year=2026">
-  </a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioli08)](https://github.com/guioli08/github-readme-stats)
   <a href="https://github.com/GUIOLI08">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=dark">
   </a>
