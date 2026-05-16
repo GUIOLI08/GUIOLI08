@@ -28,13 +28,15 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f" alt="GitHub Streak Stats" />
   
-  <img height="170em" src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=guioli08&theme=2077" alt="Guilherme's Stats" />
+  <img src="https://img.shields.io/badge/Total_Commits-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/PRs_Abertos-24292e?style=for-the-badge&logo=github&logoColor=7928ca&labelColor=000000">
+  <img src="https://img.shields.io/badge/Issues-24292e?style=for-the-badge&logo=github&logoColor=ff007f&labelColor=000000">
 
   <br/><br/>
 
-  <img height="200em" src="https://github-profile-summary-cards.verve.ink/api/cards/most-commit-language?username=guioli08&theme=2077" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f&currStreakLabel=ff007f" alt="GitHub Streak Stats" />
+
 </div>
 
 ---
