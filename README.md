@@ -10,7 +10,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 
 ## 🛠️ Tech Stack
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
