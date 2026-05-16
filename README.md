@@ -24,12 +24,12 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 </div>
 
 ---
-<!--
-## 📊 Estatísticas do GitHub
+
+## 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap:50px; justify-content: center;">
   <a href="https://github.com/GUIOLI08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioli08)](https://github.com/anuraghazra/github-readme-stats)
   </a>
   <a href="https://github.com/GUIOLI08">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=dark">
@@ -37,7 +37,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 </div>
 
 ---
--->
+
 
 ## 📫 Get in Touch
 <div> 
