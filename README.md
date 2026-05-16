@@ -28,8 +28,8 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-seven-nu-66.vercel.app/api?username=guioli08&show_icons=true&theme=radial" alt="Guilherme's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-seven-nu-66.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=radial" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-seven-nu-66.vercel.app/api?username=guioli08&show_icons=true&theme=radial&cache_bust=1" alt="Guilherme's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-seven-nu-66.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=radial&cache_bust=1" alt="Top Languages" />
 </div>
 
 ---
