@@ -25,6 +25,16 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 
 ---
 
+## 🔍 Currently learning:
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
