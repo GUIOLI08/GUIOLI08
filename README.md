@@ -35,6 +35,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 
   <br/><br/>
 
+  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=guioli08&layout=compact&langs_count=15&hide_border=true&title_color=000&text_color=000&bg_color=default"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f&currStreakLabel=ff007f" alt="GitHub Streak Stats" />
 
 </div>
