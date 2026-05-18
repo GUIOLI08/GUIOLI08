@@ -1,5 +1,5 @@
 # Hello, I'm Guilherme Oliver!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=748&lines=Full+Stack+Developer+(Front-End+%26+Back-End)" alt="Typing SVG"></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=748&lines=Full+Stack+Developer+(Front-End+%26+Back-End)" alt="Typing SVG"></a></p>
 
 ---
 
