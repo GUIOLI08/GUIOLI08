@@ -43,8 +43,13 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=guioli08&layout=compact&langs_count=15&hide_border=true&title_color=000&text_color=000&bg_color=default"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f&currStreakLabel=ff007f" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats-74zg.vercel.app/api?username=guioli08&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&title_color=7928ca&text_color=ffffff&icon_color=ff007f" alt="Guilherme's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioli08&theme=tokyonight&background=000000&ring=7928ca&fire=ff007f&currStreakLabel=ff007f" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img height="210em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=guioli08&layout=compact&langs_count=8&theme=tokyonight&bg_color=000000&hide_border=true&title_color=7928ca&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
