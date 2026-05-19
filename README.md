@@ -60,6 +60,9 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
   <a href="https://www.linkedin.com/in/guilherme-oliver-75620536a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="https://guioli08.github.io/guilhermeoliver-dev-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=8403fc">
+  </a> 
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/GUIOLI08/GUIOLI08/output/github-contribution-grid-snake.svg)
