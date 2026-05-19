@@ -61,7 +61,7 @@ Full Stack Developer in constant evolution. I use TypeScript and Node.js to buil
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://guioli08.github.io/guilhermeoliver-dev-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=8403fc">
+    <img src="https://img.shields.io/badge/-Portfólio-%8403fc?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a> 
 </div>
 
